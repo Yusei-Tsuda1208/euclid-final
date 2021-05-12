@@ -1,0 +1,22 @@
+h1 {
+    font-size:30px
+}
+
+p.warareru {
+    color:red;
+}
+
+p.waru {
+    color:blue;
+    padding-top:30px;
+}
+
+p {
+    font-size:20px;
+    font-weight:bold;
+}
+
+body {
+    background-color:bisque;
+}
+
